@@ -1,3 +1,6 @@
+#/study/mdgen/alphaflow/scripts/downloading md trajectories files
+
+
 # MDGen
 
 Implementation of [Generative Modeling of Molecular Dynamics Trajectories](https://arxiv.org/abs/2409.17808) by Bowen Jing*, Hannes Stark*, Tommi Jaakkola, and Bonnie Berger.
